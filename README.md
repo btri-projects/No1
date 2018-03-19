@@ -2,7 +2,7 @@
 
 Here is where the open source code for this project will live. You're invited to contribute.
 
-No 1 will look into the following areas:
+No 1 will look into the following areas (as identified in the [working paper](http://btri.de/docs/wp.pdf)):
 
 * Analyze: We take an anlytic approach to find out where technology stands currently and what shortcomings prevent the use for broader real-economy applications.
 
