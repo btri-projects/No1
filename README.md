@@ -3,6 +3,6 @@
 This is were the open source code for this project will live. You're invited to contribute.
 
 
-[Check out our website for more infor](http://www.btri.de)
+Check out our [website](http://www.btri.de) for more information.
 ```
 
