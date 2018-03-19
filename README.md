@@ -1,6 +1,6 @@
 ## Welcome to the page for project No 1 
 
-Here is were the open source code for this project will live. You're invited to contribute.
+Here is where the open source code for this project will live. You're invited to contribute.
 
 No 1 will look into the following areas:
 
